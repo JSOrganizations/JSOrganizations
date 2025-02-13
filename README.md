@@ -22,10 +22,10 @@ Welcome to my GitHub profile! I'm the **Owner of JS Organization**, where we spe
 
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MdMobassherAhmedSowrov&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JSOrganizations&show_icons=true&theme=radical)
 
 ## 📊 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MdMobassherAhmedSowrov&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JSOrganizations&layout=compact)
 
 ## 🏆 Achievements
 - Certified Ethical Developer
