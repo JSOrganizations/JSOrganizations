@@ -36,11 +36,5 @@ Welcome to my GitHub profile! I'm the **Owner of JS Organization**, where we spe
 - I'm passionate about teaching others how to code and develop applications.
 - I believe in automation and simplifying repetitive tasks.
 
-## 🌟 Featured Projects
-Here are some of our popular bots:
-- [**SpyPhisherBot**](https://t.me/SpyPhisherBot) – A tool for phishing simulations.
-- [**JSCameraHackBot**](https://t.me/JSCameraHackBot) – A bot that demonstrates ethical camera access.
-- [**JSAutoReactionBot**](https://t.me/JSAutoReactionBot) – A bot for automating reactions on posts.
-
 ---
 You can explore more about my work on [our Telegram channel](https://t.me/JSOrganization)!
