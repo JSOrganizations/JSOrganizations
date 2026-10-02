@@ -84,21 +84,21 @@
     </a>
   </div>
   <div style="display: inline-block; margin: 10px; text-align: center;">
-    <a href="https://github.com/JSOrganizations/BBDropBlastBot">
-      <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=JSOrganizations&repo=BBDropBlastBot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-    </a>
-    <br/>
-    <a href="https://github.com/JSOrganizations/BBDropBlastBot">
-      <img src="https://komarev.com/ghpvc/?username=JSOrganizations&repo=BBDropBlastBot&label=Views&color=58a6ff&style=flat-square" alt="BBDropBlastBot Views" />
-    </a>
-  </div>
-  <div style="display: inline-block; margin: 10px; text-align: center;">
     <a href="https://github.com/JSOrganizations/JSEmojiIDBot">
       <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=JSOrganizations&repo=JSEmojiIDBot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
     </a>
     <br/>
     <a href="https://github.com/JSOrganizations/JSEmojiIDBot">
       <img src="https://komarev.com/ghpvc/?username=JSOrganizations&repo=JSEmojiIDBot&label=Views&color=58a6ff&style=flat-square" alt="JSEmojiIDBot Views" />
+    </a>
+  </div>
+  <div style="display: inline-block; margin: 10px; text-align: center;">
+    <a href="https://github.com/JSOrganizations/BBDropBlastBot">
+      <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=JSOrganizations&repo=BBDropBlastBot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+    </a>
+    <br/>
+    <a href="https://github.com/JSOrganizations/BBDropBlastBot">
+      <img src="https://komarev.com/ghpvc/?username=JSOrganizations&repo=BBDropBlastBot&label=Views&color=58a6ff&style=flat-square" alt="BBDropBlastBot Views" />
     </a>
   </div>
   <div style="display: inline-block; margin: 10px; text-align: center;">
