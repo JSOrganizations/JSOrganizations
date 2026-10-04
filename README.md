@@ -102,12 +102,12 @@
     </a>
   </div>
   <div style="display: inline-block; margin: 10px; text-align: center;">
-    <a href="https://github.com/JSOrganizations/docs">
-      <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=JSOrganizations&repo=docs&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+    <a href="https://github.com/JSOrganizations/Hidely">
+      <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=JSOrganizations&repo=Hidely&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
     </a>
     <br/>
-    <a href="https://github.com/JSOrganizations/docs">
-      <img src="https://komarev.com/ghpvc/?username=JSOrganizations&repo=docs&label=Views&color=58a6ff&style=flat-square" alt="docs Views" />
+    <a href="https://github.com/JSOrganizations/Hidely">
+      <img src="https://komarev.com/ghpvc/?username=JSOrganizations&repo=Hidely&label=Views&color=58a6ff&style=flat-square" alt="Hidely Views" />
     </a>
   </div>
 </div>
